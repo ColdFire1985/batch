@@ -1,2 +1,2 @@
-# Detect a Comport
+# Detect a Com-port
 # 
