@@ -1,2 +1,2 @@
-# batch
-# batch
+# Detect a Comport
+# 
